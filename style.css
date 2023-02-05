@@ -1,0 +1,34 @@
+#schoolimage{
+    width: 1000px;
+    height: 400px;
+}
+
+#campus{
+    color: black;
+}
+
+.travel_mainDiv{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv{
+    width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p {
+    margin: 20px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+
+.achievement_text span
+{
+    color: orange;
+}
